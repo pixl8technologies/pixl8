@@ -75,7 +75,7 @@ export default ({
   signupUrl = "#",
 
 }) => (
-  <AnimationRevealPage>
+  <AnimationRevealPage disabled>
     <Container>
       <Content>
         <MainContainer>
